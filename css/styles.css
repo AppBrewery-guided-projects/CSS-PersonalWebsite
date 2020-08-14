@@ -1,0 +1,51 @@
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+table {
+    text-align: left;
+}
+
+img {
+    border: 4px solid white;
+    border-radius: 50%;
+    width: 200px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.headBox h3 {
+    margin: 0;
+}
+
+.head {
+    margin: 12em;
+}
+
+.headBox {
+    margin: 2em;
+}
+
+.education,
+.projects,
+.skills, 
+.hobbies {
+    display: inline-block;
+    margin: 5em;
+}
+
+.hobbie {
+    display: inline-block;
+    margin: 0 2em;
+}
+
+hr {
+    border: 0;
+    border-top: 6px dotted gray;
+    size: 0;
+    width: 5%;
+}
